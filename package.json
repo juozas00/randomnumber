@@ -1,0 +1,13 @@
+{
+  "name": "randomnumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "randomnumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "random": "nodemon ./kintamieji/randomnumber.js",
+  },
+  "keywords": [],
+  "author": "Juozas Zigmantas",
+  "license": "MIT"
+}
